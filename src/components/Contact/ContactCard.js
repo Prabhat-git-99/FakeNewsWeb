@@ -53,11 +53,11 @@ const ContactCard = () => {
                         </div>
                         <div className='info'>
                             <span className='icon sec'><MdCall /></span>
-                            <h4>9561286698,9284541883</h4>
+                            <h4>7057965399</h4>
                         </div>
                         <div className='info'>
                             <span className='icon sec'><BiMessageDetail /></span>
-                            <h4>shravanipoman1999@gmail.com</h4>
+                            <h4>prabatwork3939@gmail.com</h4>
                         </div>
                     </div>
                 </div>
